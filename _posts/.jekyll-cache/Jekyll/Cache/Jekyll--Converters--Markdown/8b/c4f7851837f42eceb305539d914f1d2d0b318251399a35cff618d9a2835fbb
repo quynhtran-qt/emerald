@@ -1,0 +1,25 @@
+I"<p><img src="/emerald/img/great-day.jpeg" alt="blog1" title="blog1" /></p>
+
+<h2 id="hello-again-we-will-learn-about-docker-today">Hello, again. We will learn about Docker today</h2>
+
+<h3 id="what-is-docker">What is Docker?</h3>
+<p>Docker is built on CLI-based workflow, as a container to help developer make it easy to build applications, and to solve the problem of application behaves differently on each machine. 
+<strong>Another advantage of docker</strong> is up and running in a minute. Docker provides many benefits such as encapsulation, isolation, portability, and control. Docker is also great way for developer to collaborate through Docker hub or private repo.</p>
+
+<h3 id="where-to-get-docker">Where to get Docker</h3>
+
+<p>Docker can be download at Docker hub. The easiest way to install docker is to search using Google, it will return the direct page which let you download Docker. Depend on your host machine, you can choose between windows, MacOs, Ubuntu, Linux, etc…</p>
+
+<h3 id="docker-basic-commands">Docker basic commands</h3>
+
+<p>To get started with Docker, we need to first set up a container. To check what container currently running,</p>
+<blockquote>
+  <p>docker ps</p>
+</blockquote>
+
+<p>To check all the container</p>
+<blockquote>
+  <p>docker ps –all</p>
+</blockquote>
+
+:ET
