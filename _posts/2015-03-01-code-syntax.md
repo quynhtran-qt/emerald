@@ -34,3 +34,7 @@ def hello
 end
 
 {% endhighlight %}
+
+Adding a video in markdown
+
+![youtube](https://img.youtube.com/vi/<insert-youtube-video-id-here>/sddefault.jpg)
