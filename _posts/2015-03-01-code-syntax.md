@@ -37,4 +37,4 @@ end
 
 Adding a video in markdown
 
-![youtube](https://img.youtube.com/vi/<insert-youtube-video-id-here>/sddefault.jpg)
+![youtube](https://img.youtube.com/vi/HUBNt18RFbo/sddefault.jpg)
