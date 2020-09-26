@@ -37,4 +37,4 @@ end
 
 Adding a video in markdown
 
-![youtube](https://img.youtube.com/vi/HUBNt18RFbo/sddefault.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ivKEj3ksPk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
